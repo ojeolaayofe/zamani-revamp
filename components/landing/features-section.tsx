@@ -10,7 +10,7 @@ const features = [
   },
   {
     icon: PiggyBank,
-    title: "Naira ⇄ USDC Conversion",
+    title: "Naira ⇄ USD Conversion",
     description: "Convert your funds instantly and securely.",
   },
   {
